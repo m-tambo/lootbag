@@ -9,12 +9,12 @@ You have an acquaintance whose job is to, once a year, delivery presents to the 
 
 ##### Add a toy to the bag o' loot, and label it with the child's name who will receive it.
 
-./lootbag.js add kite suzy
+./lootbag.js add kite suzy<br />
 ./lootbag.js add baseball michael
 
 ##### Remove a toy from the bag o' loot in case a child's status changes before delivery starts.
 
-./lootbag.js remove suzy kite
+./lootbag.js remove suzy kite<br />
 ./lootbag.js remove michael baseball
 
 ##### Produce a list of children currently receiving presents.
