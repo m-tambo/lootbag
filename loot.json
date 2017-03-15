@@ -1,20 +1,17 @@
 {
   "loot":
-  [
-    {
-      "name": "billy",
-      "toy": "drums",
+  {
+  "billy": {
+      "toys": ["drums", "sticks", "balls"],
       "delivered": "1"
     },
-    {
-      "name": "joelle",
-      "toy": "oil",
+  "joelle": {
+      "toys": ["oil"],
       "delivered": "0"
     },
-    {
-      "name": "jimmy",
-      "toy": "pino-pong",
+  "jimmy": {
+      "toys": ["ping-pong"],
       "delivered": "1"
     }
-  ]
+  }
 }
