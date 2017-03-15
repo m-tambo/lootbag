@@ -1,0 +1,23 @@
+{
+  "name": "lootbag",
+  "version": "1.0.0",
+  "description": "An exercise with TDD and a read/write streams.",
+  "main": "lootbag.js",
+  "scripts": {
+    "test": "mocha -R list --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-tambo/lootbag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-tambo/lootbag/issues"
+  },
+  "homepage": "https://github.com/m-tambo/lootbag#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
