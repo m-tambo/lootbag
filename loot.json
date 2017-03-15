@@ -1,0 +1,20 @@
+{
+  "loot":
+  [
+    {
+      "name": "billy",
+      "toy": "drums",
+      "delivered": "1"
+    },
+    {
+      "name": "joelle",
+      "toy": "oil",
+      "delivered": "0"
+    },
+    {
+      "name": "jimmy",
+      "toy": "pino-pong",
+      "delivered": "1"
+    }
+  ]
+}
